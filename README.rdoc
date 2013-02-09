@@ -4,7 +4,7 @@ TODO
 
 == Getting Started
 
-1. [Install rvm](https://rvm.io/rvm/install/)
+1. Install rvm https://rvm.io/rvm/install/
 
 2. Create gemset 1.9.3@hbk
 
